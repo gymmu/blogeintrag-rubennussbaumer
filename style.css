@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 *,
 *::before,
 *::after {
@@ -12,9 +16,33 @@ body {
 
 }
 
+#Navigationsseite {
+  position: sticky; top: 0;
+  border: 20px solid beige;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: beige;
+  }
+
+#box {border: 2px black; }
+
+.links {
+  color: black;
+}
+
+a:hover {
+  font-size: 1.2rem;
+}
+
+a:visited {
+  color: black;
+}
+
 h1 {
   font-size: 50px;
 }
+
 h2 {
   font-size: medium;
 }
@@ -22,3 +50,6 @@ h2 {
 img {
   width: 400px;
   height: 300px;}
+
+#box {border: 2px solid black;
+margin: 10%; }
