@@ -18,14 +18,14 @@ body {
 
 #Navigationsseite {
   position: sticky; top: 0;
-  border: 20px solid beige;
+  border: 10px solid beige;
   margin: 10px;
   padding: 10px;
   text-align: center;
   background-color: beige;
   }
 
-#box {border: 2px black; }
+
 
 .links {
   color: black;
@@ -51,5 +51,5 @@ img {
   width: 400px;
   height: 300px;}
 
-#box {border: 2px solid black;
-margin: 10%; }
+#box {border: 2px solid beige;
+margin: 1px; }
