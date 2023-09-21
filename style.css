@@ -67,3 +67,9 @@ img {
   padding-left: 200px;
   padding-right: 200px;
 }
+
+.umrandungen { 
+  margin: 1%;
+  border-color: black 1px ;
+  padding: 5px;
+}
