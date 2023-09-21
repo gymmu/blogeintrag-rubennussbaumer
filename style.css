@@ -22,7 +22,7 @@ body {
   border-left: 5px solid black;
   border-right: 5px solid black;
   text-align: center;
-  background-color: lightblue;
+  background-color: white;
   }
 
 .links {
@@ -62,10 +62,10 @@ img {
   text-align: left;
   padding-left: 200px;
   padding-right: 200px;
-  border: 5px solid rgb(95, 61, 181);
+  border: 5px solid black;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: lightblue;
+  background-color: white;
   margin-top: 1%;
   text-align: center;
   
