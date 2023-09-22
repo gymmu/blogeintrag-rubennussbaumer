@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 *,
 *::before,
 *::after {
@@ -5,7 +9,79 @@
 }
 
 body {
-  margin: 0;
-  background-color: lightgray;
+  text-align: center;
   font-family: sans-serif;
+  margin: 10px;
+  background-image: url("https://i.pinimg.com/originals/7f/e7/74/7fe774bbacce09f00cb5b2e3cbc48db3.png");
 }
+
+#Navigationsseite {
+  position: sticky; top: 0;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  text-align: center;
+  background-color: white;
+  }
+
+.links {
+  color: black;
+}
+
+a:hover {
+  font-size: 1.2rem;
+}
+a:visited {
+  color: black;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: medium;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+#box2 {
+  border-top: 5px solid black;
+  border-bottom: 0.000001px solid black;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/006/145/325/original/simple-yellow-business-background-with-yellow-circle-border-abstract-yellow-wallpaper-used-for-for-banner-web-header-cover-wallpaper-billboard-brochure-social-media-landing-page-free-vector.jpg");
+
+}
+
+#steckbrief-box {
+  text-align: left;
+  padding-left: 200px;
+  padding-right: 200px;
+  border: 5px solid black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: white;
+  margin-top: 1%;
+  text-align: center;
+  background-image: url("https://png.pngtree.com/background/20210716/original/pngtree-white-abstract-vector-web-background-design-picture-image_1354906.jpg");
+  
+}
+
+.umrandungen { 
+  margin: 1%;
+  border-color: 5px solid black;
+  padding: 5px;
+}
+
+
+#Bild {
+  padding: 10px ;
+  border-color: 10px solid black;
+}
+
