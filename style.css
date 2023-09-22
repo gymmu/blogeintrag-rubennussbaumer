@@ -55,7 +55,8 @@ img {
   border-bottom: 0.000001px solid black;
   border-left: 5px solid black;
   border-right: 5px solid black;
-  background-color: rgb(128, 169, 205);
+  background-image: url("https://cdn.ome.lt/W8-mrMO9iU03LzMy8Q25t1SeEAk=/970x360/smart/uploads/conteudo/fotos/Dark_Souls_3_header.jpg");
+  background-position: top;
 }
 
 #steckbrief-box {
